@@ -1,6 +1,6 @@
 # Decathlon Offsite Test
 
-Assuming q1.csv, q2.csv, q3.csv are stored in ./data/
+Assume that q1.csv, q2.csv, q3.csv are stored in ./data/
 
 requirement.txt is generated from colab directly for question 3 only
 
